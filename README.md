@@ -16,5 +16,5 @@ Web,Mobile feito totalmente em ReactJs e React Native com vários conceitos como
 ### Detalhamento da empresa escolhida.
 ![tela3](https://user-images.githubusercontent.com/6656966/83902044-18882380-a732-11ea-8a3c-1b512084018c.png)
 
-##Agradecimento.
+## Agradecimento.
 Gostaria de agradecer muito ao Diego como toda a equipe por traz da <strong>Rocketseat</strong> bridadãooo.
