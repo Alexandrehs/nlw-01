@@ -7,14 +7,8 @@ Web,Mobile feito totalmente em ReactJs e React Native com vários conceitos como
 ### Sistema de upload de imagem.
 ![uploadimage](https://user-images.githubusercontent.com/6656966/83899887-8ed75680-a72f-11ea-8155-be3215045e57.png)
 
-### Tela inicial do app.
-![tela1](https://user-images.githubusercontent.com/6656966/83902033-158d3300-a732-11ea-9ebf-a4e664e457d3.png)
-
-### Mapa mostra de acordo com os itens que usuário seleciona para a coleta.
-![tela2](https://user-images.githubusercontent.com/6656966/83902038-1756f680-a732-11ea-866a-cdb5fc734743.png)
-
-### Detalhamento da empresa escolhida.
-![tela3](https://user-images.githubusercontent.com/6656966/83902044-18882380-a732-11ea-8a3c-1b512084018c.png)
+### App.
+![gigapp](https://user-images.githubusercontent.com/6656966/83945789-6ad54d00-a7e3-11ea-80dc-27954f954e5c.gif)
 
 ## Agradecimento.
 Gostaria de agradecer muito ao Diego como toda a equipe por traz da <strong>Rocketseat</strong> bridadãooo.
